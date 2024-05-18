@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>guru.springframework</groupId>
-	<artifactId>spring5webapp</artifactId>
+	<artifactId>spring5webappDev</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring5webapp</name>
 	<description>Simple web application for studies purpose</description>
